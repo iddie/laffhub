@@ -1,0 +1,12 @@
+Email:		idongesit_a@yahoo.com
+Username:	iddie
+Password:	abasi123
+
+
+ssh passphrase:	VA.h{)u6H%
+
+Path to rsa file:	c:/Users/Mr. Idong/.ssh/id_rsa.pub.
+
+Content:
+========
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDhPvex1sUEzZQrZ+Y+E8tJQFb1Dzy0B7Lqi+a9ecskddmFn3k6r8Z97K3WaHAp+nZFkHfmLv0Stwpy/Fp8U25SOSovlwTmcWAOn0wlY4jqk+15qY32xsnkjD48O+KwtnuYkhdYppWPXrbtJhKcaYG9mot6Epf2e4acKNvQUe26KOE6duInHYk6z1LzMsFSwwiaXoVwiACckYezgVweZgxi7uys0knNaA1fwnsR/WJp/PtvJCzJV/6xPW6sYCD3vrOkSe6x5PyjLe1Y5XWFbpZdxkfnT3EQQNZjhxjN6T7iY8m9k33ERn+6FmxC7m3tn4HkontO3xEkCHAaLukOrmgH Mr. Idong@DESKTOP-NUB80QD
